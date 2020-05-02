@@ -1,0 +1,4 @@
+0 attn
+1 hand
+2 nobody
+3 no_attn
